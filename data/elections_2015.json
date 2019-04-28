@@ -1,0 +1,25 @@
+{
+	"votes": {
+		"likud": 985408,
+		"haavoda": 786313, 
+		"arabs_joined_party": 446583,
+		"yesh_atid": 371602,
+		"kulanu": 315360,
+		"jew_home": 283910, 
+		"shas": 241613, 
+		"liberman": 214906, 
+		"hatora": 210143, 
+		"meretz": 165529, 
+		"eli_ishay": 125158,
+		"ale_yarok": 47180,
+		"other": 17179
+	},
+	"surplus_agreement": {
+		"likud": "jew_home", 
+		"haavoda": "meretz", 
+		"liberman": "kulanu",	
+		"shas": "hatora"
+	},
+	"threshhold_percentage": 3.25
+}
+

@@ -1,0 +1,33 @@
+{
+	"votes": {
+		"likud": 1140370,
+		"haavoda": 190870, 
+		"kahol_lavan": 1125881,
+		"kulanu": 152756,
+		"jew_home": 159468, 
+		"shas": 258275, 
+		"liberman": 173004, 
+		"hatora": 249049, 
+		"meretz": 156473, 
+		"hadassh": 193442, 
+		"balad": 143666, 
+		"newright": 138598,
+		"zehut": 118031, 
+		"gesher": 74701, 
+		"smion": 4618, 
+		"cnaan": 4135, 
+		"sj": 4135, 
+		"magen": 3394, 
+		"other": 18696		
+	},
+	"surplus_agreement": {
+		"likud": "jew_home", 
+		"haavoda": "meretz", 
+		"liberman": "newright",
+		"shas": "hatora",
+		"hadassh": "balad"
+	},
+	"threshhold_percentage": 3.25
+}
+
+

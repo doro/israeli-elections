@@ -1,0 +1,44 @@
+{
+	"votes": {
+		"likud_liberman": 885163,
+		"haavoda": 432118, 
+		"yesh_atid": 543458,
+		"hatnuha": 189167,
+		"jew_home": 345985, 
+		"shas": 331868, 
+		"hatora": 195892, 
+		"meretz": 172403, 
+		"raam_taal": 138450,
+		"hadash": 113439,
+		"balad": 97030,
+		"kadima": 78974,	
+		"otzma": 66775,
+		"am_shalem": 45690,
+		"ale_yarok": 43734,
+		"eretz_hadasha": 28080,
+		"koach": 28049,
+		"israelis": 18939,
+		"yerukim": 8117,
+		"dor": 5975,
+		"live_with_honor": 3640,
+		"daam": 3546,
+		"brothers": 2899,
+		"sj": 2877,
+		"other": 10474
+
+	},
+	"surplus_agreement": {
+		"likud_liberman": "jew_home", 
+		"kadima": "am_shalem", 
+		"shas": "hatora", 
+		"meretz": "hatnuha",
+		"haavoda": "yesh_atid",
+		"hadash": "balad",
+		"dor": "sj"
+
+	},
+	"threshhold_percentage": 2
+}
+
+
+
